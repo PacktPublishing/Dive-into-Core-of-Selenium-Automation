@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="6934" started-at="2018-02-27T22:37:44Z" finished-at="2018-02-27T22:37:51Z">
+    <groups>
+    </groups>
+    <test name="First Test" duration-ms="6934" started-at="2018-02-27T22:37:44Z" finished-at="2018-02-27T22:37:51Z">
+      <class name="com.packt.tests.FirstTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.packt.tests.FirstTest@7006c658]" name="setUp" is-config="true" duration-ms="3673" started-at="2018-02-27T17:37:44Z" finished-at="2018-02-27T17:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.packt.tests.FirstTest@7006c658]" name="firstTest" duration-ms="2490" started-at="2018-02-27T17:37:48Z" finished-at="2018-02-27T17:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.packt.tests.FirstTest@7006c658]" name="tearDown" is-config="true" duration-ms="751" started-at="2018-02-27T17:37:51Z" finished-at="2018-02-27T17:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.packt.tests.FirstTest -->
+    </test> <!-- First Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>

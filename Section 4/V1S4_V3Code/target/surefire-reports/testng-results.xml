@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Troubleshooting Suite" duration-ms="41130" started-at="2018-02-26T19:50:14Z" finished-at="2018-02-26T19:50:55Z">
+    <groups>
+    </groups>
+    <test name="Troubleshooting Test" duration-ms="41130" started-at="2018-02-26T19:50:14Z" finished-at="2018-02-26T19:50:55Z">
+      <class name="com.packt.tests.Troubleshooting">
+        <test-method status="PASS" signature="otherTest()[pri:0, instance:com.packt.tests.Troubleshooting@79698539]" name="otherTest" duration-ms="14929" started-at="2018-02-26T19:50:14Z" finished-at="2018-02-26T19:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otherTest -->
+        <test-method status="PASS" signature="staleElementTest()[pri:0, instance:com.packt.tests.Troubleshooting@79698539]" name="staleElementTest" duration-ms="5648" started-at="2018-02-26T19:50:29Z" finished-at="2018-02-26T19:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staleElementTest -->
+        <test-method status="PASS" signature="visibilityTest()[pri:0, instance:com.packt.tests.Troubleshooting@79698539]" name="visibilityTest" duration-ms="10888" started-at="2018-02-26T19:50:35Z" finished-at="2018-02-26T19:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityTest -->
+        <test-method status="PASS" signature="waitTest()[pri:0, instance:com.packt.tests.Troubleshooting@79698539]" name="waitTest" duration-ms="9631" started-at="2018-02-26T19:50:45Z" finished-at="2018-02-26T19:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTest -->
+      </class> <!-- com.packt.tests.Troubleshooting -->
+    </test> <!-- Troubleshooting Test -->
+  </suite> <!-- Troubleshooting Suite -->
+</testng-results>

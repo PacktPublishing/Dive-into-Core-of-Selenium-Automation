@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7028" started-at="2018-02-15T21:29:46Z" finished-at="2018-02-15T21:29:53Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7028" started-at="2018-02-15T21:29:46Z" finished-at="2018-02-15T21:29:53Z">
+      <class name="com.packt.tests.Troubleshooting">
+        <test-method status="PASS" signature="staleElementTest()[pri:0, instance:com.packt.tests.Troubleshooting@6aaa5eb0]" name="staleElementTest" duration-ms="6990" started-at="2018-02-15T21:29:46Z" finished-at="2018-02-15T21:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staleElementTest -->
+      </class> <!-- com.packt.tests.Troubleshooting -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="26718" started-at="2018-02-26T19:36:30Z" finished-at="2018-02-26T19:36:57Z">
+    <groups>
+    </groups>
+    <test name="First Test" duration-ms="6537" started-at="2018-02-26T19:36:30Z" finished-at="2018-02-26T19:36:36Z">
+      <class name="com.packt.tests.FirstTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.packt.tests.FirstTest@2fc14f68]" name="firstTest" duration-ms="6519" started-at="2018-02-26T14:36:30Z" finished-at="2018-02-26T14:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- com.packt.tests.FirstTest -->
+    </test> <!-- First Test -->
+    <test name="Troubleshooting" duration-ms="20127" started-at="2018-02-26T19:36:36Z" finished-at="2018-02-26T19:36:57Z">
+      <class name="com.packt.tests.Troubleshooting">
+        <test-method status="PASS" signature="waitTest()[pri:0, instance:com.packt.tests.Troubleshooting@71c7db30]" name="waitTest" duration-ms="10064" started-at="2018-02-26T14:36:36Z" finished-at="2018-02-26T14:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTest -->
+        <test-method status="PASS" signature="visibilityTest()[pri:0, instance:com.packt.tests.Troubleshooting@71c7db30]" name="visibilityTest" duration-ms="10059" started-at="2018-02-26T14:36:46Z" finished-at="2018-02-26T14:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityTest -->
+      </class> <!-- com.packt.tests.Troubleshooting -->
+    </test> <!-- Troubleshooting -->
+  </suite> <!-- Suite1 -->
+</testng-results>

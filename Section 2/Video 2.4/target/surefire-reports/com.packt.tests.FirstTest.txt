@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.packt.tests.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.144 s - in com.packt.tests.FirstTest

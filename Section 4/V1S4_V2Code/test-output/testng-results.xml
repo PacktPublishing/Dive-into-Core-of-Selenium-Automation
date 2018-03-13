@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Troubleshooting Suite" duration-ms="39607" started-at="2018-02-27T18:02:22Z" finished-at="2018-02-27T18:03:01Z">
+    <groups>
+    </groups>
+    <test name="Troubleshooting Test" duration-ms="39607" started-at="2018-02-27T18:02:22Z" finished-at="2018-02-27T18:03:01Z">
+      <class name="com.packt.tests.Troubleshooting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="setUp" is-config="true" duration-ms="2764" started-at="2018-02-27T13:02:22Z" finished-at="2018-02-27T13:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="otherTest()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="otherTest" duration-ms="10697" started-at="2018-02-27T13:02:25Z" finished-at="2018-02-27T13:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otherTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="tearDown" is-config="true" duration-ms="697" started-at="2018-02-27T13:02:35Z" finished-at="2018-02-27T13:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="setUp" is-config="true" duration-ms="2630" started-at="2018-02-27T13:02:36Z" finished-at="2018-02-27T13:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="staleElementTest()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="staleElementTest" duration-ms="2929" started-at="2018-02-27T13:02:39Z" finished-at="2018-02-27T13:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staleElementTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="tearDown" is-config="true" duration-ms="683" started-at="2018-02-27T13:02:42Z" finished-at="2018-02-27T13:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="setUp" is-config="true" duration-ms="2517" started-at="2018-02-27T13:02:42Z" finished-at="2018-02-27T13:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="visibilityTest()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="visibilityTest" duration-ms="6735" started-at="2018-02-27T13:02:45Z" finished-at="2018-02-27T13:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="tearDown" is-config="true" duration-ms="675" started-at="2018-02-27T13:02:51Z" finished-at="2018-02-27T13:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="setUp" is-config="true" duration-ms="1998" started-at="2018-02-27T13:02:52Z" finished-at="2018-02-27T13:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="waitTest()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="waitTest" duration-ms="6556" started-at="2018-02-27T13:02:54Z" finished-at="2018-02-27T13:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.packt.tests.Troubleshooting@7006c658]" name="tearDown" is-config="true" duration-ms="707" started-at="2018-02-27T13:03:01Z" finished-at="2018-02-27T13:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.packt.tests.Troubleshooting -->
+    </test> <!-- Troubleshooting Test -->
+  </suite> <!-- Troubleshooting Suite -->
+</testng-results>

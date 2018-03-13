@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Troubleshooting Suite" verbose="1">
+	
+	<test name="Troubleshooting Test">
+		<classes>
+			<class name="com.packt.tests.Troubleshooting">
+			</class>
+		</classes>
+	</test>
+</suite>

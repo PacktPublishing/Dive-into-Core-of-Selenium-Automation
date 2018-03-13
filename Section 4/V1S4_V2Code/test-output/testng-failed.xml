@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Troubleshooting Suite]">
+  <test name="Troubleshooting Test(failed)">
+    <classes>
+      <class name="com.packt.tests.Troubleshooting">
+        <methods>
+          <include name="waitTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.packt.tests.Troubleshooting -->
+    </classes>
+  </test> <!-- Troubleshooting Test(failed) -->
+</suite> <!-- Failed suite [Troubleshooting Suite] -->
