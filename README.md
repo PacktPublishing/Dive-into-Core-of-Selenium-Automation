@@ -31,7 +31,7 @@ This course has the following software requirements:<br/><ul>
 ## Related Products
 * [Hands-on Application Development with ASP.NET Core and Angular [Video]](https://www.packtpub.com/web-development/hands-application-development-aspnet-core-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781788290449)
 
-* [Appium(Selenium)-Mobile Automation Testing from Scratch [Video]](https://www.packtpub.com/web-development/hands-application-development-aspnet-core-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781788290449)
+* [Appium(Selenium)-Mobile Automation Testing from Scratch [Video]](https://www.packtpub.com/application-development/appiumselenium-mobile-automation-testing-scratch-video)
 
-* [The Complete Step By Step Java For Testers [Video]](https://www.packtpub.com/web-development/hands-application-development-aspnet-core-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781788290449)
+* [The Complete Step By Step Java For Testers [Video]](https://www.packtpub.com/application-development/complete-step-step-java-testers-video)
 
