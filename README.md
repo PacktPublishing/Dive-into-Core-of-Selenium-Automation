@@ -21,7 +21,7 @@ This video starts with how to solve the difficult problems that you will undoubt
 To fully benefit from the coverage included in this course, you will need:<br/><ul>
 <li> A basic understanding of Java programming language 
 <li> Understanding of software quality assurance and the value of software testing</ul>
-### Technical Requirements
+### Technical Requirements<br>
 This course has the following software requirements:<br/><ul>
 <li>Java SE JDK (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 <li>Maven (https://maven.apache.org/download.cgi)
