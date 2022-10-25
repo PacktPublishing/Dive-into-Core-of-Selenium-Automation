@@ -35,3 +35,7 @@ This course has the following software requirements:<br/><ul>
 
 * [The Complete Step By Step Java For Testers [Video]](https://www.packtpub.com/application-development/complete-step-step-java-testers-video)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788395663">https://packt.link/free-ebook/9781788395663 </a> </p>
